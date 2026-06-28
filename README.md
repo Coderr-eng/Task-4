@@ -1,4 +1,4 @@
-##Movie Recommendation System##
+##Movie Recommendation System
 📌 Overview
 This project is a simple Movie Recommendation System built using TypeScript.
 It suggests movies to users based on their preferences such as genres, year, or language.
